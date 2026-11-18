@@ -64,15 +64,13 @@ FitTrack helps people stay consistent with their fitness journey, whether they'r
 | IDE | Android Studio |
 | Backend | Firebase |
 
-<!-- Add the rest of your stack here, e.g. Firebase services used (Authentication, Firestore/Realtime Database), UI toolkit (Jetpack Compose / XML), step counting (Sensor API), libraries -->
-
 ---
 
 ## Source Code
 
 The source code for FitTrack is **private and not publicly available**. This repository is a showcase of the app only.
 
-If you'd like to know more about how it was built, feel free to reach out.
+If you'd like to know more about how it was built, feel free to reach out through my GitHub profile: **[github.com/jhaylm-dev](https://github.com/jhaylm-dev)**.
 
 ---
 
@@ -87,9 +85,10 @@ If you'd like to know more about how it was built, feel free to reach out.
 
 ## Author
 
-**Jhay Landrei B. Marcelino**
-<!-- Add your portfolio / LinkedIn / email links -->
+**Jhay Landrei Marcelino**: Full-Stack Software Developer (Flutter, Dart, Go, Python, C#/.NET) based in Laguna, Philippines.
 
 ---
 
 This repository is a portfolio showcase; the source code is not included.
+
+© 2024 FitTrack. All rights reserved.
