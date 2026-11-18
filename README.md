@@ -5,7 +5,9 @@
 **Don't skip the workout.**
 A mobile fitness companion for tracking steps, calories, BMI, and daily workout goals in one place.
 
-![Platform](https://img.shields.io/badge/Platform-Mobile-FF8C00)
+![Platform](https://img.shields.io/badge/Platform-Android-FF8C00)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android_Studio-7F52FF)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28)
 ![Status](https://img.shields.io/badge/Status-Completed-2E7D32)
 
 </div>
@@ -56,30 +58,21 @@ FitTrack helps people stay consistent with their fitness journey, whether they'r
 
 ## Tech Stack
 
-<!-- Fill in with what you actually used -->
-
 | Layer | Technology |
 |---|---|
-| Mobile app | _e.g. Flutter / React Native / Kotlin_ |
-| Backend / API | _e.g. Firebase / Node.js_ |
-| Database | _e.g. Firestore / MySQL_ |
-| Auth | _e.g. Firebase Auth / JWT_ |
-| Sensors | _e.g. device pedometer for step counting_ |
+| Mobile app | Kotlin (native Android) |
+| IDE | Android Studio |
+| Backend | Firebase |
+
+<!-- Add the rest of your stack here, e.g. Firebase services used (Authentication, Firestore/Realtime Database), UI toolkit (Jetpack Compose / XML), step counting (Sensor API), libraries -->
 
 ---
 
-## Getting Started
+## Source Code
 
-<!-- Update these steps to match your project -->
+The source code for FitTrack is **private and not publicly available**. This repository is a showcase of the app only.
 
-```bash
-# Clone
-git clone <repo-url>
-cd fittrack
-
-# Install dependencies and run
-<install & run commands>
-```
+If you'd like to know more about how it was built, feel free to reach out.
 
 ---
 
@@ -96,3 +89,7 @@ cd fittrack
 
 **Jhay Landrei B. Marcelino**
 <!-- Add your portfolio / LinkedIn / email links -->
+
+---
+
+This repository is a portfolio showcase; the source code is not included.
